@@ -13,7 +13,8 @@ export const projectsData = [
         src: 'images/projectTwo.jpg',
         title: 'CSS',
         des: '',
-        githbUrl:'https://github.com/itsdevcodes/'
+        githbUrl:'https://github.com/itsdevcodes/',
+        globalUrl:'https://deveshsaini.vercel.app/',
 
     },
     {
